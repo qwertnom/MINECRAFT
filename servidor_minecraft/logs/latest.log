@@ -760,3 +760,21 @@
 [20:31:37] [Server thread/INFO]: Bremur[/127.120.246.127:56553] logged in with entity id 1577 at ([world]-297.8553752603056, 65.0, 14.478774189470442)
 [20:32:02] [Server thread/INFO]: Bremur lost connection: Disconnected
 [20:32:02] [Server thread/INFO]: Bremur left the game
+[20:34:27] [User Authenticator #3/INFO]: UUID of player Bremur is e783f361-0580-3a56-a1a8-b071db786c2f
+[20:34:27] [Server thread/INFO]: Bremur joined the game
+[20:34:27] [Server thread/INFO]: Bremur[/127.120.246.127:37383] logged in with entity id 1615 at ([world]-297.8553752603056, 65.0, 14.478774189470442)
+[20:35:53] [User Authenticator #4/INFO]: UUID of player Bremur is e783f361-0580-3a56-a1a8-b071db786c2f
+[20:35:53] [Server thread/INFO]: Bremur lost connection: You logged in from another location
+[20:35:53] [Server thread/INFO]: Bremur left the game
+[20:35:53] [Server thread/INFO]: Bremur joined the game
+[20:35:53] [Server thread/INFO]: Bremur[/127.120.246.127:39453] logged in with entity id 1762 at ([world]-297.8553752603056, 65.0, 14.478774189470442)
+[20:36:42] [User Authenticator #4/INFO]: UUID of player Bremur is e783f361-0580-3a56-a1a8-b071db786c2f
+[20:36:42] [Server thread/INFO]: Bremur lost connection: You logged in from another location
+[20:36:42] [Server thread/INFO]: Bremur left the game
+[20:36:42] [Server thread/INFO]: Bremur joined the game
+[20:36:42] [Server thread/INFO]: Bremur[/127.120.246.127:46711] logged in with entity id 1843 at ([world]-297.8553752603056, 65.0, 14.478774189470442)
+[20:37:58] [User Authenticator #5/INFO]: UUID of player Bremur is e783f361-0580-3a56-a1a8-b071db786c2f
+[20:37:58] [Server thread/INFO]: Bremur lost connection: You logged in from another location
+[20:37:58] [Server thread/INFO]: Bremur left the game
+[20:37:58] [Server thread/INFO]: Bremur joined the game
+[20:37:58] [Server thread/INFO]: Bremur[/127.120.246.127:43285] logged in with entity id 1970 at ([world]-297.8553752603056, 65.0, 14.478774189470442)
